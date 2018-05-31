@@ -1,0 +1,20 @@
+{
+  "title": "StorymapJS",
+  "contentType": "Library",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "description" : " A Storytelling Map built in Javascript https://projects.knightlab.com/projects/storymapjs",
+  "machineName": "StorymapJS",
+  "runnable": 0,
+  "author" : "KnightLab",
+  "license": "MPL2",
+  "preloadedJs":[
+    {
+      "path": "storymap.js"
+    },
+    {
+        "path": "storymap-orig.js"
+    }
+  ]
+}
